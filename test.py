@@ -1,3 +1,1 @@
-print ("hello")
-#test
-#1
+print ("안녕")
